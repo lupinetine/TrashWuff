@@ -1,0 +1,44 @@
+Person
+
+A person has a number of stats, 
+that they try to either hold as high as possible (within reason)
+or that they try to keep as close to zero (middle) as possible
+
+
+for example
+eating daily, 
+  but will happen later if they went to bed full
+stress should be managed
+  too much will make a person take a break
+  too little will make a person seek out new tasks
+
+
+go to work
+  depending on the day
+  depending on how they feel
+  depending on if they need money
+  will be fed a company lunch 
+go to the store
+  for food
+  for goods
+  for fun
+  for 
+go to the bar
+  for fun
+  for socialization
+  for destress
+go to the diner
+  for food
+  for socialization
+  for destress
+go to the library
+  for study
+  for destress
+
+stay home
+  for destress
+  for study
+  for sleep
+  for food 
+  for storage
+  
